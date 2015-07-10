@@ -1,0 +1,19 @@
+.container {
+  text-align: center;
+  color: red;
+  margin: 45px auto;
+  width: 450px;
+  background-color: grey;
+  font-size: 50px; }
+
+button {
+  width: 300px;
+  margin: 0px auto;
+  height: 300px;
+  color: blue;
+  background-color: yellow;
+  margin-left: 400px; }
+
+body {
+  padding: 100px;
+  background-color: grey; }
