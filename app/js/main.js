@@ -11,6 +11,8 @@
     $scope.likeCount = 0;
     $scope.likeString = 'Likes';
 
+
+
     $scope.likeClick = function () {
         if ($scope.likeCount === 0) {
             $scope.likeString = 'Like';
